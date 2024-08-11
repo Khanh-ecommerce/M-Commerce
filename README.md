@@ -123,6 +123,6 @@
 
 Thank you. Happy Learning
 
-Read <a href="https://raw.githubusercontent.com/Khanh-ecommerce/M-Commerce/main/Schedule">Schedule</a>
+Read <a href="https://raw.githubusercontent.com/Khanh-ecommerce/M-Commerce/main/Schedule.md">Schedule</a>
 
 Tag: flutter-developemnt-roadmap, flutter-app-development-roadmap, flutter-roadmap, flutter-development-learing-guideline, flutter-development-guideline, flutter-development-for-beginners, roadmap-for-beginners, flutter-learning-guideline
