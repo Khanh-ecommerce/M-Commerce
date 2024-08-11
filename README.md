@@ -2,10 +2,6 @@
 ## Roadmap Dev Fluter for M-Commerce
 <img width="2939" alt="flutter-app-development-roadmap" src="https://github.com/user-attachments/assets/01ced1a7-c465-453c-8ce1-0ad5ea357c22">
 
-
-* <a href="https://github.com/Khanh-ecommerce/M-Commerce/blob/1b74bb04d8449f7a8110652d3616994ce8c43334/Schedule.md">Schedule</a>
-
-
 * Programming Language
 	* Dart
 * IDE for development
@@ -126,6 +122,8 @@
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
+##
+## Read <a href="https://github.com/Khanh-ecommerce/M-Commerce/blob/1b74bb04d8449f7a8110652d3616994ce8c43334/Schedule.md">Schedule</a> , thanks.
+
 Thank you. Happy Learning
 
-Tag: flutter-developemnt-roadmap, flutter-app-development-roadmap, flutter-roadmap, flutter-development-learing-guideline, flutter-development-guideline, flutter-development-for-beginners, roadmap-for-beginners, flutter-learning-guideline
