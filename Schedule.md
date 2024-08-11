@@ -1,7 +1,6 @@
-## schedule for M-Commerce
+## Schedule for M-Commerce
 
-* Programming Language
-	* Dart
+
 * Week 1: 
   * Overview of Mobile Commerce
   * Intro Dark and Fluter
