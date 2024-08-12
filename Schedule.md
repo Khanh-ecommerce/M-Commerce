@@ -12,10 +12,8 @@
   * Typical applications of Mobile Commerce
     * Bank, Mobile Brokerage, Mobile Financial Information
     * Mobile Gaming, Marketing, Shopping,...
-* Week 4: 
+* Week 4, 5: 
   * Design the interface with FLutter
-* Week 5: 
-  * Handling events in flutter
 * Week 6: 
   * Handling events in flutter
 * Week 7: 
